@@ -1,0 +1,15 @@
+Output variable's : ( any words is an variable..example : (a,b,c,d,e,etc) you just need to do this = " < var > < = > < " word " >
+
+Divided / Uncombined codes
+
+x = "Welcome to phyton!"
+y = "How are ya?" 
+print(x + y)
+
+Combined codes : 
+
+x = "Hello"
+y = "How are ya?"
+myVar = x + y
+print(myVar)
+
