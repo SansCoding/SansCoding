@@ -1,0 +1,12 @@
+x = ",not joking "
+
+def myfunc():
+    x = "not cool!"
+    print("Phyton is " + x)
+
+myfunc()
+
+print("mate " + x )
+
+Info : line 1 is combined with line 9. line 4 is combined with line 5
+Material : Global Variable
