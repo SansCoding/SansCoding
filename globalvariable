@@ -1,7 +1,7 @@
-x = ",not joking "
+x = ",phyton is cool!! "
 
 def myfunc():
-    x = "not cool!"
+    x = "so cool!!"
     print("Phyton is " + x)
 
 myfunc()
